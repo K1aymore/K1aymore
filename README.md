@@ -1,5 +1,5 @@
 - NixOS is great
-- Made my website: [klaymore.me](https://klaymore.me)
+- Programmed my own website: [klaymore.me](https://klaymore.me)
 - [Videos](https://www.youtube.com/channel/UCrLkMOV08B50cJFD2ocWdMA)
 
 <br />
