@@ -6,5 +6,5 @@
 <br />
 
 [Contact](https://klaymore.me/about/):
-- Email: klaymore@protonmail.com
+- Email: klaymorer@protonmail.com
 - Discord: Klaymore#8518
