@@ -5,4 +5,3 @@
 
 Contact:
 - Email: klaymorer@protonmail.com
-- Discord: klaymore8518
